@@ -33,6 +33,6 @@ Additional robustness checks, alternative specifications, and documentation may 
 
 ## Author
 Chairunnisa Yulfianti  
-Graduate Student in Economics
+Graduate Student in Economics  
 Universitas Indonesia
 ---
