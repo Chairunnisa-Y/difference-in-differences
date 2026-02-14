@@ -23,7 +23,7 @@ The focus is on estimation, interpretation, and critical assessment of identifyi
 - `outputs/` : Tables or figures generated from the analysis (if applicable)
 
 ## Project Status
-This repository is a **work in progress**.  
+This repository is already has **report**.  
 Additional robustness checks, alternative specifications, and documentation may be added incrementally.
 
 ## Notes on Use
